@@ -8,6 +8,7 @@ public class GitMergeDemoNineApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitMergeDemoNineApplication.class, args);
+        System.out.println("123456");
     }
 
 }
