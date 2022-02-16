@@ -12,4 +12,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("master测试rebase提交");
     }
 
+    public void hello(){
+
+    }
+
 }
