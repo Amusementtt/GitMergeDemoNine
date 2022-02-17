@@ -25,4 +25,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("master分支的提交");
     }
 
+    public void helloRelease(){
+        System.out.println("release分支提交");
+    }
+
 }
