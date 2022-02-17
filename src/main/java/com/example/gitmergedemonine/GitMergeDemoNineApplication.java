@@ -11,6 +11,7 @@ public class GitMergeDemoNineApplication {
         System.out.println("123456");
         System.out.println("master测试rebase提交");
         System.out.println("dev分支提交");
+        System.out.println("dev分支第二次提交");
     }
 
     public void hello(){
