@@ -21,4 +21,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("dev:dev测试rebase第三次提交");
     }
 
+    public void helloMaster(){
+        System.out.println("master分支的提交");
+    }
+
 }
