@@ -23,6 +23,7 @@ public class GitMergeDemoNineApplication {
 
     public void helloMaster(){
         System.out.println("master分支的提交");
+        System.out.println("master分支的提交");
     }
 
 }
