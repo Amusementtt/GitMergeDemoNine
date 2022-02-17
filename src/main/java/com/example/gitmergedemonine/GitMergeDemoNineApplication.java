@@ -10,6 +10,7 @@ public class GitMergeDemoNineApplication {
         SpringApplication.run(GitMergeDemoNineApplication.class, args);
         System.out.println("123456");
         System.out.println("master测试rebase提交");
+        System.out.println("dev分支提交");
     }
 
     public void hello(){
