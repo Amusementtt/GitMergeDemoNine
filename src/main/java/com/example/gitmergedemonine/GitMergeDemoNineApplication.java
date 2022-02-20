@@ -32,4 +32,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("release分支提交");
     }
 
+    public void releaseModify(){
+        System.out.println("release分支的提交");
+    }
+
 }
