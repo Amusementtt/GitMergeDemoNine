@@ -78,5 +78,6 @@ public class GitMergeDemoNineApplication {
         System.out.println("masterSevenOne提交");
         System.out.println("111");
         System.out.println("222");
+        System.out.println("333");
     }
 }
