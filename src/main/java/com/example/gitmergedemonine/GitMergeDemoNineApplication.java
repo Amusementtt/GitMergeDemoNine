@@ -84,4 +84,8 @@ public class GitMergeDemoNineApplication {
     public void originMasterEight(){
         System.out.println("masterEignt提交");
     }
+
+    public void originMasterNine(){
+        System.out.println("masterNine提交");
+    }
 }
