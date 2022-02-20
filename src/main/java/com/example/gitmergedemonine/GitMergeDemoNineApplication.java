@@ -63,4 +63,8 @@ public class GitMergeDemoNineApplication {
     public void originMasterFive(){
         System.out.println("masterFive远程提交");
     }
+
+    public void originMasterSix(){
+        System.out.println("masterSix远程提交");
+    }
 }
