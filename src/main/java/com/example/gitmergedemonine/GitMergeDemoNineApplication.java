@@ -80,4 +80,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("222");
         System.out.println("333");
     }
+
+    public void originMasterEight(){
+        System.out.println("masterEignt提交");
+    }
 }
