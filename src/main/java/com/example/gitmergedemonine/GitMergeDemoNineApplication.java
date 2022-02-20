@@ -40,4 +40,7 @@ public class GitMergeDemoNineApplication {
         System.out.println("dev分支提交");
     }
 
+    public void originMaster(){
+        System.out.println("master远程提交");
+    }
 }
