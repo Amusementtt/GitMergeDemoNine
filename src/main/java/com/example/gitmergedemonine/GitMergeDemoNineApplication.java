@@ -77,5 +77,6 @@ public class GitMergeDemoNineApplication {
     public void originMasterSevenOne(){
         System.out.println("masterSevenOne提交");
         System.out.println("111");
+        System.out.println("222");
     }
 }
