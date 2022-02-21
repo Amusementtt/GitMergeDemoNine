@@ -111,5 +111,8 @@ public class GitMergeDemoNineApplication {
 
     public void originMasterTwlve(){
         System.out.println("masterTwlve提交");
+        System.out.println("masterThireen提交");
+        System.out.println("masterFourteen提交");
+        System.out.println("masterFifteen提交");
     }
 }
