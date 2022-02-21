@@ -108,4 +108,8 @@ public class GitMergeDemoNineApplication {
         System.out.println("hello");
         System.out.println("helloOne");
     }
+
+    public void originMasterTwlve(){
+        System.out.println("masterTwlve提交");
+    }
 }
