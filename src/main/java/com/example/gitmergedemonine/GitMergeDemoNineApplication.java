@@ -100,6 +100,7 @@ public class GitMergeDemoNineApplication {
         System.out.println("tenTwo");
         System.out.println("tenThree");
         System.out.println("tenFour");
+        System.out.println("tenFive");
     }
 
     public void originMasterEleven(){
