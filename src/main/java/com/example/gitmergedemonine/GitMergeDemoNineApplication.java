@@ -97,6 +97,7 @@ public class GitMergeDemoNineApplication {
         System.out.println("masterTen提交");
         System.out.println("111222333");
         System.out.println("tenOne");
+        System.out.println("tenTwo");
     }
 
     public void originMasterEleven(){
