@@ -120,4 +120,8 @@ public class GitMergeDemoNineApplication {
     public void originMasterThirteen(){
         System.out.println("123");
     }
+
+    public void originMasterFifteen(){
+        System.out.println("Fifteen");
+    }
 }
