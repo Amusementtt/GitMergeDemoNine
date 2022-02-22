@@ -123,5 +123,6 @@ public class GitMergeDemoNineApplication {
 
     public void originMasterFourteen(){
         System.out.println("fourTeen");
+        System.out.println("111");
     }
 }
