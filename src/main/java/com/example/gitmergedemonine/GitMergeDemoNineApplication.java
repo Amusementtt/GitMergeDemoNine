@@ -134,5 +134,10 @@ public class GitMergeDemoNineApplication {
 
     public void originMasterSeventeen(){
         System.out.println("sevenTeen");
+        System.out.println("111");
+    }
+
+    public void originMasterEighteen(){
+        System.out.println("eighteen");
     }
 }
